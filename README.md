@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Olá, sou Tarciso Joaquim do Nascimento Neto. Sou um desenvolvedor fullstack/back-end em formação, com uma grande paixão por tecnologia e desenvolvimento de software. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas (ADS) na Uninassau-Caruaru e aprimorando continuamente meus conhecimentos em Java, além de outras linguagens e ferramentas de programação.</p>
+<h3 align="left">Olá, sou Tarciso Joaquim do Nascimento Neto. Sou um desenvolvedor fullstack/back-end em formação, com uma grande paixão por tecnologia e desenvolvimento de software. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas (ADS) na Uninassau-Caruaru e aprimorando continuamente meus conhecimentos em Java, além de outras linguagens e ferramentas de programação.</h3>
 
 ###
 
